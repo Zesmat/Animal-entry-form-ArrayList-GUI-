@@ -1,0 +1,66 @@
+C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+D:\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+D:\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+D:\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Legion\Documents\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Legion\Documents\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Legion\Documents\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Legion\Documents\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Legion\Documents\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Legion\Documents\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Legion\Documents\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Legion\Documents\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Legion\Documents\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+D:\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+D:\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+D:\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\Christmas-music-box-carol.wav
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UpdateValueForm.resources
+C:\Users\Legion\Downloads\advanced pro (3)\advanced pro (2)\advanced pro\advanced pro\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\animal.txt
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\animal.txt
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\Christmas-music-box-carol.wav
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UpdateValueForm.resources
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
