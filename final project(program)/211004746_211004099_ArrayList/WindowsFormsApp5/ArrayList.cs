@@ -38,7 +38,7 @@ namespace WindowsFormsApp5
             this._size = size;
         }
 
-        
+
 
         public object this[int index]// defines the MyArrayList class instances with an indexer to make it accessible
                                     // in the array
@@ -59,7 +59,7 @@ namespace WindowsFormsApp5
                 _items[index] = value;
             }
         }
-        public void Add(object item)//add function
+        public void Add(object item) //add function which dynmaicly alocates array size
         {
             EnsureCapacity(_size + 1);//ensures that there is enough space for the entered item
             _items[_size++] = item;
