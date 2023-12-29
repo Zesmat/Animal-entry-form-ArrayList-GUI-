@@ -33,7 +33,7 @@ This repository contains a Windows Forms application (`WindowsFormsApp5`) design
 ## Contributing
 - Fady Adel contributed in this project
   ```bash
-  https://github.com/fadyyadell
+  https://github.com/fadyadell
 
 ## License
 - [Ziad Ahmed Esmat, Fady Adel]
