@@ -20,8 +20,8 @@ namespace WindowsFormsApp5
             InitializeComponent();
             textBox1.Text = currentValue;
 
-            btnOk.Click += btnOk_Click;
-            btnCancel.Click += btnCancel_Click;
+            btnOk.Click += btnOk_Click;// line attaches an event handler to the Click event of the btnOk button.
+            btnCancel.Click += btnCancel_Click;// line attaches an event handler to the Click event of the btnCancel button.
         }
 
         private void btnOk_Click(object sender, EventArgs e)
