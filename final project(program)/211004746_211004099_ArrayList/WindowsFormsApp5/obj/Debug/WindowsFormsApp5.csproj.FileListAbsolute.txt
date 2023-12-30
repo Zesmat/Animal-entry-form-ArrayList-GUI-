@@ -64,3 +64,16 @@ C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\Windows
 C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
 C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
 C:\Users\Legion\Documents\final project(program)\WindowsFormsApp5 - Copy\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\bin\Debug\Christmas-music-box-carol.wav
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\bin\Debug\animal.txt
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UpdateValueForm.resources
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
