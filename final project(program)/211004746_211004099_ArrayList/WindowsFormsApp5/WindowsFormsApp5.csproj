@@ -91,7 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="animal.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Christmas-music-box-carol.wav">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

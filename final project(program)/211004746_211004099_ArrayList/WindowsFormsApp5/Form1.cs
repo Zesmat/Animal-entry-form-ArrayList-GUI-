@@ -135,9 +135,10 @@ namespace WindowsFormsApp5
         private void WriteToNotepadFile(MyArrayList data)
         {
             // Specify the path to the notepad file
-            //string relativePath = @"animal.txt";
-          //  string filePath = Path.Combine(Application.StartupPath, relativePath);//Placing the the path same as the application
-          string filePath = @"C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\animal.txt";
+            string relativePath = @"animal.txt";
+            string filePath = Path.Combine(Application.StartupPath, relativePath);//Placing the the path same as the application
+            //string filePath = @"C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\animal.txt";
+            //string filePath = @"\animal.txt";
 
             try
             {
@@ -184,9 +185,12 @@ namespace WindowsFormsApp5
         //delete text from the file
         private void RemoveLineFromFile(string lineToRemove)
         {
-            string filePath = @"C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\animal.txt";
-            //string relativePath = @"animal.txt";
-            //string filePath = Path.Combine(Application.StartupPath, relativePath);//Placing the the path same as the application
+            
+
+            // string filePath = @"\animal.txt";
+            //string filePath = @"C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\animal.txt";
+            string relativePath = @"animal.txt";
+            string filePath = Path.Combine(Application.StartupPath, relativePath);//Placing the the path same as the application
             try
             {
                 // Read all lines from the file except the line that needed to be removed(lineToRemove)
@@ -287,8 +291,9 @@ namespace WindowsFormsApp5
         private void UpdateValueInFile(string oldValue, string newValue)
         {
             //string filePath = Path.Combine(Application.StartupPath, "animal.txt");
-            string filePath = @"C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\animal.txt";
-
+            //string filePath = @"C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\animal.txt";
+            string relativePath = @"animal.txt";
+            string filePath = Path.Combine(Application.StartupPath, relativePath);
             try
             {
                 // Read all lines from the file into a list
@@ -317,8 +322,10 @@ namespace WindowsFormsApp5
         //used to clear all data inside the file
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            //string filePath = Path.Combine(Application.StartupPath, "animal.txt");
-            string filePath = @"C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\animal.txt";
+            string relativePath = @"animal.txt";
+
+            string filePath = Path.Combine(Application.StartupPath, relativePath);
+            // string filePath = @"C:\Users\Legion\Documents\GitHub\Animal-entry-form-ArrayList-GUI-\final project(program)\211004746_211004099_ArrayList\WindowsFormsApp5\animal.txt";
             try
             {
                 // Create or overwrite the file to clear its content
