@@ -18,7 +18,7 @@ namespace WindowsFormsApp5
         public UpdateValueForm(string currentValue)
         {
             InitializeComponent();
-            textBox1.Text = currentValue; // Assuming textBox1 is the name of your TextBox
+            textBox1.Text = currentValue;
 
             btnOk.Click += btnOk_Click;
             btnCancel.Click += btnCancel_Click;
