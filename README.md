@@ -7,9 +7,20 @@ This repository contains a Windows Forms application (`WindowsFormsApp5`) design
 ## Features
 
 - **Add Animals:** Users can add animals to the list.
+     - <img src="https://github.com/Zesmat/Animal-entry-form-ArrayList-GUI-/blob/main/Add%20function.png" alt="Add Function" width="600"/>
+
+  
 - **Update Animals:** Allows users to update an existing animal in the list.
+     - <img src="https://github.com/Zesmat/Animal-entry-form-ArrayList-GUI-/blob/main/Update%20function.png" alt="Update Function" width="600"/>
+
+
 - **Delete Animals:** Provides functionality to remove an animal from the list.
+     - <img src="https://github.com/Zesmat/Animal-entry-form-ArrayList-GUI-/blob/main/Delete%20Function'.png" alt="Delete Function" width="600"/>
+
 - **Search Animals:** Allows users to search for a specific animal in the list.
+     - <img src="https://github.com/Zesmat/Animal-entry-form-ArrayList-GUI-/blob/main/Search%20Function.png" alt="Search Function" width="600"/>
+
+
 - **File Operations:** All animal data is stored in a text file located within the application directory.
 
 ## Prerequisites
